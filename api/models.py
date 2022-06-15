@@ -7,4 +7,4 @@ from django.forms import BooleanField, DateField
 class Todolist(models.Model):
     title = models.CharField(max_length=100)
     completed = models.BooleanField(default=False)
-    date = models.DateTimeField()
+    
