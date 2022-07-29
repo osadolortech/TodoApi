@@ -7,6 +7,9 @@ Django rest_framwork
 Steps to Setup
 ** Install dependencies pip install Run start python manage.py runserver You can browse the apis at (https://robottodo.herokuapp.com/api/v1/todo/)
 
+# Documentation
+https://documenter.getpostman.com/view/18963336/UzXVtYxo
+
 CRUD - Post (POSt)
 Whenever we visit a website the browser sends a post request to the server to perform a operation. This is why we are seeing the "cannot post/" error, it's trying to GET but we're not GIVING (not a real term) yet - because have nothing to send back at the moment. To handle GET requests we use the get method:
 
