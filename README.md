@@ -8,7 +8,7 @@ Steps to Setup
 ** Install dependencies pip install Run start python manage.py runserver You can browse the apis at (https://robottodo.herokuapp.com/api/v1/todo/)
 
 # Application Frontend
-https://github.com/pjmiles/react-todo-app#readme
+https://react-todo-app-six-delta.vercel.app/
 
 # Documentation
 https://documenter.getpostman.com/view/18963336/UzXVtYxo
